@@ -6,4 +6,5 @@ public class Student {
     private String email;
 
     private Integer id;
+    private String address;
 }
